@@ -7,7 +7,9 @@ HW1-prefix_sum+string
 HW2+greedy+tree  
 [https://youtu.be/FQFtorAqrEo]   
 
-HW3  
+HW3 -binary search  
+[https://youtu.be/eKyMvGn4oJQ]. 
+
 
 HW4  
 
