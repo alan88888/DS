@@ -11,8 +11,8 @@ HW3 -binary search
 [https://youtu.be/eKyMvGn4oJQ]. 
 
 
-HW4-graph/dfs/bfs. 
-[https://youtu.be/RzN1kjyuf1w]  
+HW4-graph/dfs/bfs  
+[https://youtu.be/RzN1kjyuf1w].   
 
 HW5  
 [https://youtu.be/bkSH9jvAkD8]  
