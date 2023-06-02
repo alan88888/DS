@@ -17,5 +17,5 @@ HW4-graph/dfs/bfs
 HW5-stack+heap    
 [https://youtu.be/bkSH9jvAkD8]  
 
-DS-final. 
+DS-final  
 [https://youtu.be/uoX7FcOB51M]. 
